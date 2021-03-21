@@ -1,0 +1,1 @@
+var gitWelcome = 'hello git';
